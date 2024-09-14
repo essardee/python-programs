@@ -1,4 +1,4 @@
-#A program to convert SQL table data to an Excel file
+#A program to maintain a car showroom data
 
 import mysql.connector as sql #including the python-sql connector library
 
